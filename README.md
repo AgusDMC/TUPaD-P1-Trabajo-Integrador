@@ -8,7 +8,7 @@ Link del video explicativo: https://drive.google.com/file/d/1ObOpLivRu3CldKVbOJQ
 
 - Explicación teórica (ordenamiento y búsqueda)
 - Código en Python (Insertion Sort y Búsqueda Binaria)
-- Informe en formato .docx
+- Informe en formato .pdf
 
 ## Autores
 
